@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Anurag Kumawat
 - 👀 I’m interested in Web/App Development
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on idk
-- 📫 You can reach me on instagram @theanuragkumawat OR Twiter @theanuragkmwt
+- 📫 You can reach me on instagram Linkedin
