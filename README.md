@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anurag Kumawat
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React JS
-- 📫 You can reach me on instagram and Linkedin
+- 🌱 I’m currently learning backend with mongodb, expressjs and nodejs
+- 📫 You can reach me on Linkedin
